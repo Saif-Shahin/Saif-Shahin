@@ -1,4 +1,8 @@
-### Hi there 👋 I'm ([Saif](https://saif-shahin.github.io/))
+### Hi there 👋 I'm ([Saif](https://www.linkedin.com/in/saif-shahin-4826b1210/))
+
+**NOTE: This is not updated. Refer to my ([linkedin](https://www.linkedin.com/in/saif-shahin-4826b1210/))
+ for up-to-date information:** https://www.linkedin.com/in/saif-shahin-4826b1210/
+
 
 I am a fourth-year Software Engineering Student and Machine Learning Researcher @ ([McGill University](https://www.mcgill.ca/)). I am also the Vice President of events at McRun, _and a big advocate for Agile development_ 🤫.
 
